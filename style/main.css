@@ -59,3 +59,11 @@ nav li a {
 	font-weight: bold;
 	text-decoration: none;
 }
+
+nav li a:hover {
+	color: #9e2520;
+	background-image: url(../images/navwidget.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	padding-top: 10px;
+}
