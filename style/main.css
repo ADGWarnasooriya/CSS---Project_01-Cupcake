@@ -22,6 +22,10 @@
 	color: #313030;
 }
 
+body {
+	font-family: "Century Gothic", Century, Verdana, Geneva, sans-serif;
+}
+
 main {
 	width: 960px;
 	min-height: 700px;
