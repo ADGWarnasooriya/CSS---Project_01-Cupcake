@@ -35,7 +35,6 @@ main {
 	width: 960px;
 	min-height: 700px;
 	margin: 0 auto 0 auto;
-	background-color: burlywood;
 }
 .logo {
 	width: 100%;
@@ -77,6 +76,7 @@ nav li a:hover {
 	width: 219px;
 	height: 282px;
 	background-image: url(../images/ccmbg.png);
+	float: right;
 }
 
 .left-side {
@@ -88,4 +88,39 @@ nav li a:hover {
 .right-side {
 	display: inline-block;
 	width: 355px;
+}
+
+.left-side .menu {
+	font-size: 30px;
+	font-weight: bold;
+	display: block;
+	text-align: center;
+}
+
+.button {
+	padding: 8px 15px 8px 15px;
+	background-color: #7ac1b7;
+	border: #fcb84e 5px solid;
+	color: white;
+	border-radius: 8px;
+	text-decoration: none;
+}
+
+footer {
+	width: 100%;
+	position: fixed;
+	top: auto;
+	bottom: 15px;
+	display: inline-block;
+}
+
+.footer-1,
+.footer-3 {
+	width: 30%;
+	display: inline-block;
+}
+
+.footer-2 {
+	width: 40%;
+	display: inline-block;
 }
