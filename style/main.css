@@ -1,3 +1,7 @@
+.uppercase {
+	text-transform: uppercase;
+}
+
 main {
 	width: 960px;
 	min-height: 700px;
