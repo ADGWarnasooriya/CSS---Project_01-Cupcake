@@ -2,6 +2,26 @@
 	text-transform: uppercase;
 }
 
+.color-green {
+	color: #7ac1b7;
+}
+
+.color-red {
+	color: #9e2520;
+}
+
+.color-light-yellow {
+	color: #fde090;
+}
+
+.color-yellow {
+	color: #fcb84e;
+}
+
+.color-black {
+	color: #313030;
+}
+
 main {
 	width: 960px;
 	min-height: 700px;
