@@ -218,3 +218,26 @@ nav li a:hover {
 	color: #7ac1b7;
 	text-decoration: underline;
 }
+
+.box-middle {
+	float: left;
+	border-radius: 5px;
+	background-color: #7ac1b7;
+	width: 260px;
+	height: 260px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 100px;
+}
+
+.owners {
+	border-radius: 5px;
+	width: 250px;
+	height: 250px;
+	margin: 5px;
+	background-image: url(../images/owners.jpg);
+}
+
+.p-about-us {
+	font-size: 12px;
+}
