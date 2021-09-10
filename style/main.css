@@ -109,18 +109,7 @@ nav li a:hover {
 footer {
 	width: 100%;
 	position: fixed;
-	top: auto;
-	bottom: 15px;
-	display: inline-block;
-}
-
-.footer-1,
-.footer-3 {
-	width: 30%;
-	display: inline-block;
-}
-
-.footer-2 {
-	width: 40%;
+	top: 600px;
+	bottom: 0;
 	display: inline-block;
 }
