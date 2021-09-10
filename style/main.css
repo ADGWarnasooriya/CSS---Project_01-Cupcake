@@ -213,3 +213,8 @@ nav li a:hover {
 	grid-template-columns: auto auto auto auto;
 	margin-left: -40px;
 }
+
+.middle .highlight {
+	color: #7ac1b7;
+	text-decoration: underline;
+}
