@@ -79,6 +79,57 @@ nav li a:hover {
 	float: right;
 }
 
+.right-side .promo h4 {
+	text-transform: uppercase;
+	color: white;
+	margin: 0 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.right-side .promo h5 {
+	text-transform: uppercase;
+	color: white;
+	margin: 0 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.box {
+	background-color: #fde090;
+	width: 60px;
+	height: 50px;
+	padding: 50px;
+	margin: 5px 30px 5px 30px;
+}
+
+.moose {
+	width: 119px;
+	height: 119px;
+	background-image: url(../images/com_1.jpg);
+	margin: -30px -30px -30px -30px;
+}
+
+.right-side .promo h6 {
+	text-transform: uppercase;
+	color: #313030;
+	margin: 0 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.right-side .promo h3 {
+	text-transform: uppercase;
+	color: #313030;
+	margin: -2px 0;
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+}
+
 .left-side {
 	display: inline-block;
 	width: 600px;
@@ -154,4 +205,11 @@ nav li a:hover {
 	float: left;
 	position: relative;
 	margin-right: 20px;
+}
+
+.social-links ul {
+	list-style: none;
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+	margin-left: -40px;
 }
