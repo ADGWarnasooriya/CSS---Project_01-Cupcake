@@ -158,7 +158,7 @@ nav li a:hover {
 }
 
 .footer {
-	margin: 0;
+	margin: 50px;
 	padding: 70px 0;
 	box-sizing: border-box;
 }
@@ -325,4 +325,33 @@ nav li a:hover {
 
 .font {
 	line-height: 50%;
+}
+
+.box_05 {
+	float: left;
+	display: flex;
+	border-radius: 5px;
+	background-color: #fde090;
+	width: 400px;
+	height: 100px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 0;
+	margin-left: 10px;
+}
+
+.box_06 {
+	float: left;
+	display: flex;
+	border-radius: 5px;
+	background-color: #fcb84e;
+	width: 390px;
+	height: 90px;
+	margin: 5px;
+}
+
+input[type="text"] {
+	font-size: 15px;
+	height: 20px;
+	margin-top: 20px;
 }
