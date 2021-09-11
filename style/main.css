@@ -209,8 +209,8 @@ nav li a:hover {
 
 .social-links ul {
 	list-style: none;
-	display: grid;
-	grid-template-columns: auto auto auto auto;
+	display: flex;
+	grid-template-columns: max-content;
 	margin-left: -40px;
 }
 
