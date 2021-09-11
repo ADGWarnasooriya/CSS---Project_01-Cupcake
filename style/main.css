@@ -253,3 +253,43 @@ nav li a:hover {
 .items {
 	font-size: medium;
 }
+
+.box_02 {
+	float: left;
+	display: flex;
+	border-radius: 5px;
+	background-color: #fde090;
+	width: 210px;
+	height: 260px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.manhatton {
+	width: 200px;
+	height: 250px;
+	margin: 5px;
+}
+
+.box_03 {
+	float: left;
+	display: flex;
+	border-radius: 5px;
+	background-color: #fde090;
+	width: 210px;
+	height: 260px;
+	margin-top: 100px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: -220px;
+}
+
+.location {
+	margin: 0 0 0 50px;
+}
+
+.location_02 {
+	margin: 75px 0 0 50px;
+}
