@@ -245,3 +245,11 @@ nav li a:hover {
 .left-side .row_01 {
 	display: flex;
 }
+
+.paragraph {
+	font-size: small;
+}
+
+.items {
+	font-size: medium;
+}
