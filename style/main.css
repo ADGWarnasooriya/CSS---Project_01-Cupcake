@@ -241,3 +241,7 @@ nav li a:hover {
 .p-about-us {
 	font-size: 12px;
 }
+
+.left-side .row_01 {
+	display: flex;
+}
