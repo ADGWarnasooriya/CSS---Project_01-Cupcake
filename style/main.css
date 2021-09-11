@@ -293,3 +293,36 @@ nav li a:hover {
 .location_02 {
 	margin: 75px 0 0 50px;
 }
+
+.box_04 {
+	float: left;
+	display: flex;
+	border-radius: 5px;
+	background-color: #7ac1b7;
+	width: 260px;
+	height: 270px;
+	margin-top: 0;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+.contact {
+	width: 250px;
+	height: 260px;
+	margin: 5px;
+}
+
+.highlight {
+	color: #7ac1b7;
+	text-decoration: underline;
+	font-size: smaller;
+}
+
+.paragraph_02 {
+	font-size: smaller;
+}
+
+.font {
+	line-height: 50%;
+}
